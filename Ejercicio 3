@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang-"en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>20 ejercicios</title>
+    </head>
+    <body>
+        <script>
+        
+          alert ("1");
+          alert ("2");
+          alert ("3");
+          alert ("4");
+          alert ("5");
+          alert ("6");
+          alert ("7");
+          alert ("8");
+          alert ("9");
+          alert ("10");
+          
+        </script>
+    </body>
+</html>
