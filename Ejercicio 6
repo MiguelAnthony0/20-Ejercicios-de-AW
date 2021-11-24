@@ -12,7 +12,7 @@
          
      
         </script>
-        <input type="button" value="Pasa por encima" onmouseover="alert('Acabas de pasar el ratón por encima');" />
+        <input type="button" value="Pasa por encima" onmouseover="alert('El raton acaba de pasar por el boton');" />
         
     </body>
 </html>
